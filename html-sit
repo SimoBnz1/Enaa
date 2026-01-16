@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+</head>
+<body>
+    <header>
+        
+        <nav class="nav">
+            <div class="Dnav">
+                <div class="logo">
+                    <img src="/brief1Photo/logo/Viator_logo.png" alt="">
+                    <h6>a Tripadvisor company</h6>
+                </div> 
+                <div class="disc">
+                    <select name="discover">
+                        <option >discover</option>
+                    </select>
+                </div> 
+            </div>
+                
+           
+            <div class="Ndiv">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <i class="fa-solid fa-gift"></i>
+                <i class="fa-solid fa-user"></i>
+            </div>
+
+        </nav>
+        
+    </header>
+    <section class="hero">
+        <div class="overlay"></div>
+
+        <div class="hero-content">
+            <h1>Do more with Viator</h1>
+            <p>Plan better with 300,000+ travel experiences</p>
+
+            <div class="search-box">
+
+                <div class="field">
+                    <label for="inp1">Where to ?</label>
+                    <input type="text" id="inp1" placeholder="Searche for a place or activity">
+                </div>
+
+                <div class="field">
+                    <label>When ?</label>
+                    <input type="text" placeholder="When">
+                </div>
+
+                <button>
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </button>
+
+            </div>
+
+        </div>
+
+       
+    </section>
+    <div class="Pcard1">
+            <h2>Why book with Viator?</h2>
+            <div class="card1">
+                <div class="child-card">
+                    <i class="fa-solid fa-phone"></i>
+                    <p>24/7 customer support</p>
+                    <div>No matter the time zone, we're here to help.</div>
+                </div>
+                <div class="child-card">
+                    <i class="fa-regular fa-lightbulb"></i>
+                    <p>Earn rewards</p>
+                    <div>Explore, earn, redeem, and repeat <br> with our loyalty program.</div>
+                </div>
+                <div class="child-card">
+                    <i class="fa-regular fa-star"></i>
+                    <p>Millions of reviews</p>
+                    <div>Plan and book with confidence <br> using reviews from fellow travelers.</div>
+                </div>
+                <div class="child-card">
+                    <i class="fa-regular fa-calendar"></i>
+                    <p>Plan your way</p>
+                    <div>Stay flexible with free cancellation <br> and the 
+                        option to reserve now and <br> pay later at no additional cost.
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div class="Pcard2">
+        <div>
+           <h2> Log in to manage bookings & Viator Rewards</h2>
+        </div>
+        <div>
+            Don't have an account yet?<a href=""> Sign up </a>
+        </div>
+        <button> <span>Log in</span></button>
+    </div>
+
+   <div class="Phr">
+    <hr class="line">
+    <p>Why you are seeing <a href="">these recommendations</a></p>
+    <hr class="line1">
+   </div>
+
+   <div class="TopD">
+    <h2>Top Destinations</h2>
+   </div>
+
+   <div class="CardTOPd">
+        <div class="child img1"><h3>Barcelona</h3></div>
+        <div class="child img2"><h3>Rome</h3></div>
+        <div class="child img3"><h3>Paris</h3></div>
+        <div class="child img4"><h3>London</h3></div>
+        <div class="child img5"><h3>New York city</h3></div>
+   </div>
+   <div class="CardTOPd">
+        <div class="child img6"><h3>Wshington DC</h3></div>
+        <div class="child img7"><h3>Cancun</h3></div>
+        <div class="child img8"><h3>Oahu</h3></div>
+        <div class="child img9"><h3>Las Vegas</h3></div>
+        <div class="child img10"><h3>Florence</h3></div>
+   </div>
+   <div>
+    <div class="Dkeep">
+        <h2>
+            Keep things flexible
+        </h2>
+        <div>
+            Use Reserve Now & Pay Later
+             to secure the <br> activities you don't want 
+             to miss without being <br> locked in.
+        </div>
+    </div>
+   </div>
+       
+   <div class="TopD">
+    <h2>Top Attractions</h2>
+   </div>
+<div class="PAttDi">
+    <div class="DDIV">
+        <div class="AttDi">
+               
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+                
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+               
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="DDIV">
+        <div class="AttDi">
+                
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+                
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+               
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="DDIV">
+        <div class="AttDi">
+                
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+               
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+        <div class="AttDi">
+                
+                <div class="child Att">
+                    <div>
+                        <span>Colosseum</span>
+                        <p>1,912 Tours and Activities</p>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+  
+          
+   
+</body>
+</html>
