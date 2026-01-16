@@ -1,0 +1,263 @@
+.nav{
+    display:flex;
+    justify-content :space-between ;
+}
+
+
+
+h6{
+    margin-top: 5px;
+    width: 280px;
+}
+
+.nav{
+    display:flex;
+    justify-content :space-between ;
+}
+
+.Dnav{
+    display: flex;
+    flex-direction: row;
+}
+
+.disc{
+    padding-top:  26px;
+}
+
+
+
+.logo img ,h6{
+    width: 110px;
+}
+
+.hero {
+   position:relative;
+    height: 400px;
+    margin-top: 20px;
+    background-image: url("caption.jpg");
+    background-size: cover;
+}
+
+.overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+}
+
+
+.hero-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.hero-content p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+
+.search-box {
+  display: flex;
+  align-items: flex-end;
+  gap: 60px;
+  background: white;
+  margin: 50px;
+  padding: 15px;
+  border-radius: 40px;
+}
+
+.field {
+   
+  display: flex;
+  flex-direction: column;
+}
+
+.field label {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.field input {
+  border: none;
+  outline: none;
+  width: 250px;
+  font-size: 14px;
+}
+
+.search-box button {
+  border: none;
+  background: black;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+.card1{
+    display: flex;
+    justify-content:space-between;
+}
+.Pcard1{
+    text-align: center;
+}
+
+.child-card p{
+ font-weight: bold;
+ font-size: 22px;
+}
+.Pcard2{
+        background-color: #F7EEFF;
+        border-radius: 20px;
+        text-align: center;
+        width: 50%;
+        padding: 30px;
+        margin-top: 50px;
+        margin-left: 25%;
+}
+.Pcard2 button{
+    color: ghostwhite;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 15px;
+    width: 330px;
+    height: 35px;
+    
+    
+}
+.Phr{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+    
+}
+.Phr .line {
+  border: none;
+  height: 1.5px;
+  background-color: #ccc;
+  width: 35%;
+  margin-left: 0px;
+}
+.Phr p{
+    margin-top: 0%;
+}
+.Phr .line1 {
+    border: none;
+  height: 1.5px;
+  background-color: #ccc;
+  width: 35%;
+  margin-right: 0px;
+}
+
+.TopD{
+    text-align: center;
+}
+
+.CardTOPd{ 
+display: flex;
+justify-content: space-between;
+  width: 100%;
+  height: 150px;
+  text-align: center;
+
+  
+}
+.CardTOPd h3{
+    color: white;
+    padding-top: 30px;
+}
+.child {
+    margin: 5px;
+    border-radius: 15px;
+  flex: 1;                
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+.img1{
+    background-image: url("Barcelona.webp");
+}
+.img2{
+    background-image: url("Rome.webp");
+}
+.img3{
+    background-image: url("Paris.webp");
+}
+.img4{
+    background-image: url("NewYorkCity.webp");
+}
+.img5{
+    background-image: url("London.webp");
+}
+
+.img6{
+    background-image: url("LasVegas.webp");
+}
+.img7{
+    background-image: url("Oahu.webp");
+}
+.img8{
+    background-image: url("WashingtonDC.webp");
+}
+.img9{
+    background-image: url("Florence.webp");
+}
+.img10{
+    background-image: url("Cancun.webp");
+}
+
+.Dkeep{
+    text-align: center;
+    background-color: #EBFAF7;
+    height: 150px;
+    padding-top: 30px;
+    margin-top: 70px;
+}
+.Dkeep div{
+    text-align: center;
+}
+
+.AttDi {
+    display: flex;
+    position: relative;
+    border-radius: 12px;
+    height: 150px;
+    gap: 15PX;
+}
+.AttDi img{
+    border-radius: 5px;
+}
+
+.AttDi .child {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.PAttDi{  
+    display: flex;
+    justify-content: space-between;
+    flex-direction:row;
+   
+}
+
+.DDIV{
+    margin-left: 50px;
+    width: 33.33%;
+}
+.child span {
+    font-size: 30px;
+    font-weight: bold;
+}
